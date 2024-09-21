@@ -1,0 +1,16 @@
+p.days {
+    font-size: 24px;
+    width: 20%;
+}
+
+.dishs {
+    width: 50%;
+    border: 2px solid gray;
+    padding: 3px 12px 3px 12px;
+}
+
+.dish {
+    border: 2px solid gray;
+    padding: 6px;
+    margin: 6px;
+}
