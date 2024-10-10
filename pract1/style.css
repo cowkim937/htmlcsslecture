@@ -14,3 +14,14 @@ p.days {
     padding: 6px;
     margin: 6px;
 }
+
+p {
+    font-weight: bold;
+}
+.naming{
+    font-weight: bold;
+}
+
+.namer:hover {
+    color: red;
+}
